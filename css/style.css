@@ -1,0 +1,23 @@
+.fb {
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.svg_fb {
+    width: 30px;
+    height: 30px;
+    fill: #000;
+    transition: all 350ms;  
+}
+
+.svg_fb:hover {
+    height: 40px;
+    fill: rgb(4, 19, 156);
+    cursor: pointer;
+}
+
+.test {
+    width: 50%;
+    margin: 0 auto;
+}
